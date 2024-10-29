@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "27923571083ba80f",
+    "type": "split",
+    "children": [
+      {
+        "id": "52c32dec931abc17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f1e42088b7e5cf3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/comptia-a-220-1102-exam-objectives-(7-0).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "comptia-a-220-1102-exam-objectives-(7-0)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17f651879c67eb3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aaed2861ae1ab46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba68b067eff6e9a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "35771a02b9b2d56e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7e30138407bbb7e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.51103591918945
+  },
+  "right": {
+    "id": "99ad8b0a15bed364",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbfdafd47b859243",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74771e8211f9a4d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fall 2024/CPS393 C and Unix/L10-10-07 SKIPPED.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for L10-10-07 SKIPPED"
+            }
+          },
+          {
+            "id": "b200c9432c6e1037",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fall 2024/CPS393 C and Unix/L10-10-07 SKIPPED.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from L10-10-07 SKIPPED"
+            }
+          },
+          {
+            "id": "7f47c554b63ee190",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "138b3ffcaa50d768",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fall 2024/CPS393 C and Unix/L10-10-07 SKIPPED.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of L10-10-07 SKIPPED"
+            }
+          },
+          {
+            "id": "c4f74a93c3d97aea",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c4f74a93c3d97aea",
+  "lastOpenFiles": [
+    "PDFs/Certified-in-Cybersecurity-Exam-Outline-August-2022-English.pdf",
+    "Photos/MTH108-L09-1.png",
+    "Photos/MTH108-L01-4.png",
+    "Photos/MTH108-L01-2.png",
+    "Photos/CPS571-L03-3 1.png",
+    "Photos/CPS571-L01-7.png",
+    "Photos/CPS393DebugRoom-1.png",
+    "Photos/CPS571-L03-1 1.png",
+    "Photos/CPS305-L08-1.png",
+    "Pasted image 20241022133307.png",
+    "Pasted image 20241024154707.png",
+    "Fall 2024/CMN300 Communication in the Computer Industry/L01-09-04.md",
+    "Vault1",
+    "backUpStuff/README.md",
+    "Fall 2024/CMN300 Communication in the Computer Industry/L08-10-29.md",
+    "Fall 2024/CMN300 Communication in the Computer Industry/L07-10-23.md",
+    "Fall 2024/CPS305 Data Structures/L12-10-28.md",
+    "Fall 2024/CPS305 Data Structures/L10-10-07.md",
+    "Fall 2024/CPS305 Data Structures/Debug Room Review & Study.md",
+    "Fall 2024/CPS305 Data Structures/Midterm Study Guide.md",
+    "Fall 2024/MTH108 Linear Algebra/L12-10-10.md",
+    "Fall 2024/MTH108 Linear Algebra/L14-10-25.md",
+    "PDFs/Kuttler-LinearAlgebra-AFirstCourse.pdf",
+    "Fall 2024/MTH108 Linear Algebra/L13-10-23.md",
+    "Fall 2024/CPS305 Data Structures/L11-10-23.md",
+    "Fall 2024/CPS571 Intro to Cybersecurity/L12-10-22-SKIPPED.md",
+    "Fall 2024/MTH108 Linear Algebra/L11-10-09.md",
+    "Fall 2024/MTH108 Linear Algebra/L10-10-04.md",
+    "Fall 2024/CPS305 Data Structures/L06-09-23.md",
+    "Fall 2024/CPS305 Data Structures/L05-09-18.md",
+    "Fall 2024/CPS305 Data Structures/Practicum Study Guide.md",
+    "Fall 2024/CPS305 Data Structures/L08-09-30.md",
+    "Fall 2024/CPS305 Data Structures/L09-10-02.md",
+    "Fall 2024/CPS305 Data Structures/Practicum Review (Debug Room).md",
+    "Fall 2024/CMN300 Communication in the Computer Industry/L06-10-02.md",
+    "Fall 2024/CPS571 Intro to Cybersecurity/L11-10-10.md",
+    "COOP Stuff/Technical Interview Things/Python Intricacies.md",
+    "Fall 2024/CPS393 C and Unix/L11-10-09.md",
+    "COOP Stuff/Technical Interview Things",
+    "backUpStuff/backUp1.sh",
+    "backUpStuff/LICENSE",
+    "backUpStuff",
+    "PDFs/comptia-a-220-1101-exam-objectives-(7-0)-1.pdf",
+    "PDFs/comptia-a-220-1102-exam-objectives-(7-0).pdf",
+    "ISC2 CC/Domain 3",
+    "Untitled.canvas",
+    "ISC2 CC/Domain 2"
+  ]
+}

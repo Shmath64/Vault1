@@ -66,7 +66,7 @@ Therefore the number of iterations is going to be less than $log_5 n$
 	(forms ...))
 ```
 
-![[Pasted image 20241022133307.png]]
+![[CPS305DebugRoom-1.png]]
 Note that $log_9n$ is *less* complex than $log_5n$
 
 

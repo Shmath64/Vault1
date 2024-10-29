@@ -11,12 +11,12 @@
             "id": "7f1e42088b7e5cf3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "PDFs/comptia-a-220-1102-exam-objectives-(7-0).pdf"
+                "file": "Photos/CPS571.png"
               },
-              "icon": "lucide-file-text",
-              "title": "comptia-a-220-1102-exam-objectives-(7-0)"
+              "icon": "lucide-image",
+              "title": "CPS571"
             }
           }
         ]
@@ -171,8 +171,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4f74a93c3d97aea",
+  "active": "ba68b067eff6e9a7",
   "lastOpenFiles": [
+    "Photos/CPS305DebugRoom-1.png",
+    "backUpStuff/README.md",
+    "PDFs/comptia-a-220-1102-exam-objectives-(7-0).pdf",
     "PDFs/Certified-in-Cybersecurity-Exam-Outline-August-2022-English.pdf",
     "Photos/MTH108-L09-1.png",
     "Photos/MTH108-L01-4.png",
@@ -182,11 +185,9 @@
     "Photos/CPS393DebugRoom-1.png",
     "Photos/CPS571-L03-1 1.png",
     "Photos/CPS305-L08-1.png",
-    "Pasted image 20241022133307.png",
-    "Pasted image 20241024154707.png",
+    "Photos/CPS571.png",
     "Fall 2024/CMN300 Communication in the Computer Industry/L01-09-04.md",
     "Vault1",
-    "backUpStuff/README.md",
     "Fall 2024/CMN300 Communication in the Computer Industry/L08-10-29.md",
     "Fall 2024/CMN300 Communication in the Computer Industry/L07-10-23.md",
     "Fall 2024/CPS305 Data Structures/L12-10-28.md",
@@ -216,9 +217,7 @@
     "backUpStuff/LICENSE",
     "backUpStuff",
     "PDFs/comptia-a-220-1101-exam-objectives-(7-0)-1.pdf",
-    "PDFs/comptia-a-220-1102-exam-objectives-(7-0).pdf",
     "ISC2 CC/Domain 3",
-    "Untitled.canvas",
-    "ISC2 CC/Domain 2"
+    "Untitled.canvas"
   ]
 }

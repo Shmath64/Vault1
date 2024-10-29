@@ -59,7 +59,7 @@ $r_1$ is a nonce
 
 **Classical Symmetric Key Exchange** is done by a trusted third party (Cathy). Alice and Bob communicate the keys from there.
 ### Needham-Schroeder
-![[Pasted image 20241024154707.png]]
+![[CPS571.png]]
 **nonce**s are helpful for ensuring messages are "fresh" and not some replay attack
 We can write out the Needham-Schroeder protocol like so:
 1. $A\implies C : A||B|r_1$ ; Alice sends to Cathy, herself, who she wants to talk to and a nonce

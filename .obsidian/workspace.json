@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "52c32dec931abc17",
+        "id": "9298180e3ed83227",
         "type": "tabs",
         "children": [
           {
-            "id": "7f1e42088b7e5cf3",
+            "id": "0eaf92e5dd8f09d8",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Photos/CPS571.png"
-              },
-              "icon": "lucide-image",
-              "title": "CPS571"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -50,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "static",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall 2024/CPS393 C and Unix/L10-10-07 SKIPPED.md",
+                "file": "Fall 2024/CPS393 C and Unix/L12-10-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for L10-10-07 SKIPPED"
+              "title": "Backlinks for L12-10-28"
             }
           },
           {
@@ -110,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall 2024/CPS393 C and Unix/L10-10-07 SKIPPED.md",
+                "file": "Fall 2024/CPS393 C and Unix/L12-10-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from L10-10-07 SKIPPED"
+              "title": "Outgoing links from L12-10-28"
             }
           },
           {
@@ -137,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall 2024/CPS393 C and Unix/L10-10-07 SKIPPED.md"
+                "file": "Fall 2024/CPS393 C and Unix/L12-10-28.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of L10-10-07 SKIPPED"
+              "title": "Outline of L12-10-28"
             }
           },
           {
@@ -171,8 +169,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba68b067eff6e9a7",
+  "active": "0eaf92e5dd8f09d8",
   "lastOpenFiles": [
+    "Fall 2024/CMN300 Communication in the Computer Industry/L07-10-23 (No-Class).md",
+    "Fall 2024/CMN300 Communication in the Computer Industry/L08-10-29.md",
+    "Fall 2024/CMN300 Communication in the Computer Industry/L09-11-6.md",
+    "Fall 2024/Untitled.md",
+    "Fall 2024/CPS393 C and Unix/_cNotesRaw/c2.md",
+    "Fall 2024/CPS393 C and Unix/L12-10-28 (Catchup).md",
+    "Fall 2024/CPS393 C and Unix/Course Intro.md",
+    "Fall 2024/CPS305 Data Structures/L12-10-30.md",
+    "Fall 2024/MTH108 Linear Algebra/L15-10-30.md",
+    "Fall 2024/MTH108 Linear Algebra/Midterm 1 Review.md",
+    "Photos/CPS305-L03-1.png",
+    "Untitled.md",
+    "Photos/CPS305-L12-1.png",
+    "Fall 2024/CPS305 Data Structures/Midterm Study Guide.md",
+    "Fall 2024/CPS305 Data Structures/Practicum Study Guide.md",
+    "Fall 2024/CPS305 Data Structures/L12-10-28.md",
+    "Fall 2024/CPS393 C and Unix/L11-10-09.md",
+    "Fall 2024/CPS393 C and Unix/L10-10-07 SKIPPED.md",
+    "PDFs/Kuttler-LinearAlgebra-AFirstCourse.pdf",
+    "Photos/Pasted image 20241030092351.png",
+    "Fall 2024/MTH108 Linear Algebra/L14-10-25.md",
+    "Fall 2024/CPS393 C and Unix/Midterm CRAM.md",
+    "Fall 2024/CPS393 C and Unix/Linux Commands.md",
+    "Fall 2024/CPS571 Intro to Cybersecurity/L12-10-22-SKIPPED.md",
+    "Fall 2024/CPS571 Intro to Cybersecurity/L11-10-10.md",
+    "Fall 2024/Fall 2024 (Semester 3).md",
+    "Fall 2024/CMN300 Communication in the Computer Industry/Recommendation Report.md",
+    "Photos/CPS571.png",
     "Photos/CPS305DebugRoom-1.png",
     "backUpStuff/README.md",
     "PDFs/comptia-a-220-1102-exam-objectives-(7-0).pdf",
@@ -182,36 +208,9 @@
     "Photos/MTH108-L01-2.png",
     "Photos/CPS571-L03-3 1.png",
     "Photos/CPS571-L01-7.png",
-    "Photos/CPS393DebugRoom-1.png",
-    "Photos/CPS571-L03-1 1.png",
-    "Photos/CPS305-L08-1.png",
-    "Photos/CPS571.png",
     "Fall 2024/CMN300 Communication in the Computer Industry/L01-09-04.md",
     "Vault1",
-    "Fall 2024/CMN300 Communication in the Computer Industry/L08-10-29.md",
-    "Fall 2024/CMN300 Communication in the Computer Industry/L07-10-23.md",
-    "Fall 2024/CPS305 Data Structures/L12-10-28.md",
     "Fall 2024/CPS305 Data Structures/L10-10-07.md",
-    "Fall 2024/CPS305 Data Structures/Debug Room Review & Study.md",
-    "Fall 2024/CPS305 Data Structures/Midterm Study Guide.md",
-    "Fall 2024/MTH108 Linear Algebra/L12-10-10.md",
-    "Fall 2024/MTH108 Linear Algebra/L14-10-25.md",
-    "PDFs/Kuttler-LinearAlgebra-AFirstCourse.pdf",
-    "Fall 2024/MTH108 Linear Algebra/L13-10-23.md",
-    "Fall 2024/CPS305 Data Structures/L11-10-23.md",
-    "Fall 2024/CPS571 Intro to Cybersecurity/L12-10-22-SKIPPED.md",
-    "Fall 2024/MTH108 Linear Algebra/L11-10-09.md",
-    "Fall 2024/MTH108 Linear Algebra/L10-10-04.md",
-    "Fall 2024/CPS305 Data Structures/L06-09-23.md",
-    "Fall 2024/CPS305 Data Structures/L05-09-18.md",
-    "Fall 2024/CPS305 Data Structures/Practicum Study Guide.md",
-    "Fall 2024/CPS305 Data Structures/L08-09-30.md",
-    "Fall 2024/CPS305 Data Structures/L09-10-02.md",
-    "Fall 2024/CPS305 Data Structures/Practicum Review (Debug Room).md",
-    "Fall 2024/CMN300 Communication in the Computer Industry/L06-10-02.md",
-    "Fall 2024/CPS571 Intro to Cybersecurity/L11-10-10.md",
-    "COOP Stuff/Technical Interview Things/Python Intricacies.md",
-    "Fall 2024/CPS393 C and Unix/L11-10-09.md",
     "COOP Stuff/Technical Interview Things",
     "backUpStuff/backUp1.sh",
     "backUpStuff/LICENSE",

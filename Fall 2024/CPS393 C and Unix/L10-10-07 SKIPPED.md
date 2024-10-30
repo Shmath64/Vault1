@@ -96,6 +96,10 @@ Arguments are ALWAYS passed by value, not reference.
 
 
 ### Makefile
+These consist of:
+1. Target
+2. Dependencies/Prerequisites
+3. Commands
 
 ```
 target: prerequisites
@@ -122,9 +126,13 @@ main.o: main.c
 	gcc -c main.c
 ```
 This will be ran by the above function (or by `make main.o`) if `main.c` is "newer" than `main.o`. 
-It's kinda "recursive".
+It's kinda "recursive" in that sense.
 
 
+makefiles can have "clean" and "veryclean" rules which can clean up object code.
+
+makefiles can also use variables to enhance readability.
+#### Back to C stuff... 
 
 Remember that anything in single quotes is a "literal character".
 "Characters" are really integers in C. 
@@ -146,4 +154,6 @@ switch(c) {
 
 `<ctype.h>` contains a lot of useful functions for working with characters.
 `'A' == 65` SO true!
+
+
 

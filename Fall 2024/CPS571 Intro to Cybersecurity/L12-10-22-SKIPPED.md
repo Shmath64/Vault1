@@ -71,4 +71,4 @@ For the last couple steps, it's important that its done quickly (so that Trudy i
 2. $A\implies B : \{r_2-1\}k_{ab}$
 
 Next up:
-Denning-Sacco Modifcation
+Denning-Sacco Modification

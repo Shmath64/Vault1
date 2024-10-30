@@ -72,3 +72,14 @@ https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_st
 		- <250 words
 	- Main Body
 	- References
+
+
+## In-Class Section
+
+When/what should you quote/paraphrasing from articles.
+
+Paraphrasing (use your own words, but keep the meaning). MAKE SURE to change the whole thing.
+Prof. recommends quoting and discourages paraphrasing. Put it IN context, don't just dump in the quote.
+
+How many quotes on a page? At LEAST 1 per paragraph (back up everything you claim).
+

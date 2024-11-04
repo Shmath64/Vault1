@@ -16,7 +16,7 @@ Can do
 If you have `a[10]` and `b[10]` DO NOT do `a=b`, instead do:
 `for (int i=0; i<10; i++) a[i]=b[i]`
 
-### Variable Length Array (VLA)
+### Variable Length Arrays (VLA)
 ```C
 int n;
 scanf("%d",&n);
@@ -133,7 +133,7 @@ They're called "static" because they're initialized in a static place in memory 
 This is all okay:
 `int A[] = {1, 4, 2, 6};`
 `char userMsg[] = "Enter a number: ";`
-`int b[][2] = {1,4,7,9,3,5}; //Compiler needs one dimension-count (can't be vague)`
+`int b[][2] = {1,4,7,9,3,5}; //Compiler needs one dimension-count (can't be ambiguous)`
 
 #### Call-by-Value
 ```C
@@ -153,9 +153,8 @@ void f1(int nums[], int loc) {
 When passing integers, C passes call-by-value (a copy of the integer)
 When passing arrays, C passes the **address** of the array. (therefore, it's LIKE call-by-reference - but its not really)
 
-
+`readline` is a useful function that reads a whole line of input and discards the `\n`
 ### Pointers!
-
 ```C
 int num; //Allocates, lets say, 1200
 num=5; //Sets the value there to 5
@@ -178,5 +177,37 @@ printf("%d\n", *(A)+2); //Prints 12
 return 0;
 ```
 
-...Continue at c2:589
+```C
+char B[] = "bcd";
+char *p = B;
+//OR (same thing)
+char *p = &B[0]
+```
 
+
+## Macros
+Macros are compiler pre-processor directives (replaced BEFORE compilation)
+Good for performance, global changes, sharing and readability 
+#### Object-Like Macros
+`#define MAX 100`
+Can use a variable, however this is better when:
+- Program is complex (shared by multiple files)
+- Macro is an array size and the compiler may not allow initialization of VLA
+
+
+
+#### Pointer Syntax Overview
+
+`int *ptr;` declares a pointer of type integer.
+- Doing `ptr++;` will increment it by `sizeof(int)`
+
+To get the address of a variable, we can use `&` (*address-of* operator)
+```C
+int var = 10;
+int *ptr = &var; //ptr holds address of var
+```
+
+**Dereferencing** means accessing the value at the memory address stored in a pointer. This can be done with `*` like:
+`int value = *ptr;`
+
+Note that `*` is used for both defining pointers AND dereferencing them

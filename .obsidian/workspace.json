@@ -4,33 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a9aaf6d04f8b4e82",
+        "id": "82e8178824426ff6",
         "type": "tabs",
         "children": [
           {
-            "id": "70bac60db4552da6",
+            "id": "d67cdd73772878f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall 2024/MTH108 Linear Algebra/L17-11-06.md",
+                "file": "Fall 2024/CPS305 Data Structures/Practicum 2 Review (Debug Room).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L17-11-06"
+              "title": "Practicum 2 Review (Debug Room)"
             }
           },
           {
-            "id": "0e6196fabbdb1b51",
+            "id": "c7d19721389f7a09",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDFs/Kuttler-LinearAlgebra-AFirstCourse.pdf"
+                "file": "Fall 2024/CPS305 Data Structures/Practicum 2 Study Guide.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Kuttler-LinearAlgebra-AFirstCourse"
+              "icon": "lucide-file",
+              "title": "Practicum 2 Study Guide"
             }
           }
         ]
@@ -64,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ethos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,14 +187,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70bac60db4552da6",
+  "active": "d67cdd73772878f7",
   "lastOpenFiles": [
-    "PDFs/Kuttler-LinearAlgebra-AFirstCourse.pdf",
-    "Fall 2024/MTH108 Linear Algebra/L17-11-06.md",
-    "Fall 2024/CMN300 Communication in the Computer Industry/L09-11-06.md",
-    "Fall 2024/CMN300 Communication in the Computer Industry/L03-09-18.md",
     "Fall 2024/CPS305 Data Structures/Practicum 2 Study Guide.md",
     "Fall 2024/CPS305 Data Structures/Practicum 2 Review (Debug Room).md",
+    "Pasted image 20241108160746.png",
+    "Pasted image 20241108160744.png",
+    "Pasted image 20241108160738.png",
+    "PDFs/Kuttler-LinearAlgebra-AFirstCourse.pdf",
+    "Fall 2024/MTH108 Linear Algebra/L18-11-08.md",
+    "Fall 2024/CPS571 Intro to Cybersecurity/L15-11-07.md",
+    "Fall 2024/CPS571 Intro to Cybersecurity/L14-11-05 (skipped).md",
+    "Fall 2024/CPS571 Intro to Cybersecurity/L12-10-22-SKIPPED.md",
+    "Fall 2024/CPS571 Intro to Cybersecurity/L13-10-31.md",
+    "Fall 2024/MTH108 Linear Algebra/L13-10-23.md",
+    "Fall 2024/MTH108 Linear Algebra/L12-10-10.md",
+    "Fall 2024/MTH108 Linear Algebra/L11-10-09.md",
+    "CompTIA Security+/1 General Security Concepts/1.2 Fundamental Security Concepts.md",
+    "Fall 2024/CMN300 Communication in the Computer Industry/L09-11-06.md",
+    "Fall 2024/CPS305 Data Structures/Course Intro.md",
+    "Fall 2024/CPS305 Data Structures/L14-11-06.md",
+    "Fall 2024/MTH108 Linear Algebra/L17-11-06.md",
+    "Fall 2024/CMN300 Communication in the Computer Industry/L03-09-18.md",
     "Fall 2024/CMN300 Communication in the Computer Industry/L05-09-25.md",
     "Fall 2024/CMN300 Communication in the Computer Industry/L10-11-05.md",
     "Fall 2024/CPS393 C and Unix/L13-10-30 (Catchup).md",
@@ -201,20 +217,9 @@
     "Fall 2024/CPS393 C and Unix/L12-10-28 (Catchup).md",
     "Fall 2024/MTH108 Linear Algebra/L15-10-30.md",
     "Fall 2024/MTH108 Linear Algebra/L16-11-01.md",
-    "Fall 2024/CPS571 Intro to Cybersecurity/L12-10-22-SKIPPED.md",
-    "Fall 2024/CPS571 Intro to Cybersecurity/L13-10-31.md",
     "Fall 2024/MTH108 Linear Algebra/L14-10-25.md",
-    "Fall 2024/MTH108 Linear Algebra/L12-10-10.md",
-    "Fall 2024/CMN300 Communication in the Computer Industry/L07-10-23 (No-Class).md",
-    "Fall 2024/CMN300 Communication in the Computer Industry/L08-10-29.md",
-    "Fall 2024/Untitled.md",
-    "Fall 2024/CPS393 C and Unix/_cNotesRaw/c2.md",
-    "Fall 2024/CPS393 C and Unix/Course Intro.md",
-    "Fall 2024/MTH108 Linear Algebra/Midterm 1 Review.md",
     "Photos/CPS305-L03-1.png",
-    "Untitled.md",
     "Photos/CPS305-L12-1.png",
-    "Fall 2024/CPS305 Data Structures/Midterm Study Guide.md",
     "Photos/Pasted image 20241030092351.png",
     "Photos/CPS571.png",
     "Photos/CPS305DebugRoom-1.png",
@@ -222,9 +227,6 @@
     "PDFs/Certified-in-Cybersecurity-Exam-Outline-August-2022-English.pdf",
     "Photos/MTH108-L09-1.png",
     "Photos/MTH108-L01-4.png",
-    "Photos/MTH108-L01-2.png",
-    "Photos/CPS571-L03-3 1.png",
-    "Photos/CPS571-L01-7.png",
     "Vault1",
     "COOP Stuff/Technical Interview Things",
     "backUpStuff/backUp1.sh",

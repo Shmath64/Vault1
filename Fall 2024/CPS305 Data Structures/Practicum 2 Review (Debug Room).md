@@ -18,6 +18,7 @@ Note the lack of brackets inside funcall
 ("R" "R")
 ```
 
+Note that using `#'` is the best way to pass functions!
 ## Recursive Functions
 ```Lisp
 (defun insert-node (alist k value &optional (acc ()) (count 1))
@@ -43,3 +44,49 @@ Note the lack of brackets inside funcall
 > (getlistr '(0 1 2 3 4 5 6 7 8) #'oddp)
 (1 3 5 7)
 ```
+
+Factorial:
+```Lisp
+;Normal recursive
+(defun fact (x)
+	(if (< x 3)
+		x
+		(* x (fact (1- x)))))
+
+;Tail recursive:
+(defun trFact (x &optional (acc 1))
+	(if (< x 2)
+		acc
+		(trFact (- x 1) (* acc x))))
+```
+
+`typep` is a useful symbol for checking the type of things:
+```Lisp
+(typep 12 'integer)
+> T
+```
+
+Some interesting `typep` behaviour:
+```Lisp
+CL-USER> (defparameter x '(1 2 3))
+X
+CL-USER> (typep (car x) 'integer)
+T
+CL-USER> (typep (car x) 'bit)
+T
+CL-USER> (typep (car x) 'number)
+T
+```
+
+Use `nth` to get the element `nth` index of a list
+
+Remember that for a do-loop, all the variables and they're iteration functions must be in brackets, and the test condition must also be in brackets:
+```Lisp
+(defun print-squares-of-3s (mylist start stop)
+	(do ))
+```
+
+## EMACS Commands:
+`C+Space` to highlight
+`Alt + W` to 'copy'
+`C + Y` to 'paste/yank'

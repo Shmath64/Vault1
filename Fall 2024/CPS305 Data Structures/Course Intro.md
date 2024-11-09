@@ -2,6 +2,8 @@ Exams and labs done by an auto-grader! There will be no part marks, syntax error
 
 8am-6pm on business days professor is available for questions (via e-mail: m3santos@torontomu.ca)
 
+https://drive.google.com/drive/folders/1fdYX90lTXZITj7ZKBKO3sNv_inr7y-_N?usp=drive_link 
+
 Suggested we use "Emacs" for writing *Lisp*
 
 Lecture Notes:

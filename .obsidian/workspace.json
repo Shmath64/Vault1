@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82e8178824426ff6",
+        "id": "e3704390c5fa6ffa",
         "type": "tabs",
         "children": [
           {
-            "id": "d67cdd73772878f7",
+            "id": "4a093222de3127df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall 2024/CPS305 Data Structures/Practicum 2 Review (Debug Room).md",
+                "file": "Fall 2024/CPS393 C and Unix/L14-11-6 (Catchup).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practicum 2 Review (Debug Room)"
-            }
-          },
-          {
-            "id": "c7d19721389f7a09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fall 2024/CPS305 Data Structures/Practicum 2 Study Guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Practicum 2 Study Guide"
+              "title": "L14-11-6 (Catchup)"
             }
           }
         ]
@@ -91,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "99ad8b0a15bed364",
@@ -187,8 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d67cdd73772878f7",
+  "active": "4a093222de3127df",
   "lastOpenFiles": [
+    "Fall 2024/CPS393 C and Unix/L14-11-6 (Catchup).md",
+    "Fall 2024/CPS393 C and Unix/L13-10-30 (Catchup).md",
     "Fall 2024/CPS305 Data Structures/Practicum 2 Study Guide.md",
     "Fall 2024/CPS305 Data Structures/Practicum 2 Review (Debug Room).md",
     "Pasted image 20241108160746.png",
@@ -211,7 +200,6 @@
     "Fall 2024/CMN300 Communication in the Computer Industry/L03-09-18.md",
     "Fall 2024/CMN300 Communication in the Computer Industry/L05-09-25.md",
     "Fall 2024/CMN300 Communication in the Computer Industry/L10-11-05.md",
-    "Fall 2024/CPS393 C and Unix/L13-10-30 (Catchup).md",
     "Fall 2024/CPS305 Data Structures/L13-11-04.md",
     "Fall 2024/CPS305 Data Structures/L12-10-30.md",
     "Fall 2024/CPS393 C and Unix/L12-10-28 (Catchup).md",

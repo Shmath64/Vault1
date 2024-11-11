@@ -37,8 +37,9 @@ void printarray(const int *X) {
 	//X=&i IS permitted but local change only
 }
 ```
-"Any change  a function makes to its arguments are local only"
+"Any change a function makes to its arguments are local only"
 
+Although in C it's always **call-by-reference**,
 We can get **call-by-reference**-like behaviour by passing the address (`&`) and then using `*` to **dereference** and modify the data.
 Note that `a == *&a` ("a is the same as dereferenced address at a")
 
@@ -60,7 +61,6 @@ int main(void) {
 
 ##### Multiple Indirection
 By using `**` we can define a pointer to a pointer!
-
 
 ### Command Line Processing
 We pass arguments to main with:
@@ -121,5 +121,88 @@ int main(void) {
 }
 ```
 
-### Dynamic Memory Allocation
+### Dynamic Memory Allocation (DMA)
 We've been allocating storage (memory) at **compile-time** (stack memory)
+In C, we can manually allocate/free heap memory at run-time with DMA
+
+Reasons to use DMA (Dynamic Memory Allocation):
+- When you need memory maintained after function return (stack memory is destroyed)
+- When you need some real RAM (typical stack size is 1MB)
+	- May happen when building some kind of structure (graph, list, array, etc.) which may get large, or when memory requirements may be uncertain.
+- Ability to *free* no-longer-needed memory during program execution.
+- Must be done if you want to create an array inside a function and return it to main.
+
+#### calloc
+"contiguous allocation"
+`calloc(NumItems, Itemsize);`
+**returns:** 
+- a void (generic) pointer, may be cast to appropriate type.
+OR
+- NULL (if storage cannot be obtained)
+Memory is initialized to zeroes.
+
+#### malloc
+"memory allocation"
+`malloc(Size);` 
+Is like `calloc`, except it just takes a number of bytes (we do the math)
+
+The following C code generates an array of size *n* where *n* is inputted from the user at runtime. This is placed in Heap memory.
+```C
+/*Source: trycalloc.c */
+#include<stdio.h>
+#include<stdlib.h>
+
+int main(void) {
+	int n, *p, *tmp, i;
+	//num of elts of future array, pointers to future array, iteration var
+	scanf("%d", &n); //Read integer from CLI to n
+	
+	p = (int *) calloc (n, sizeof(int)); //calloc returns a void pointer!
+	//We cast it as an integer pointer 
+	//(kinda unnecessary, but keeps it C++ compatible)
+
+	//Note: calloc(n, sizeof(int)) = malloc(n * sizeof(int))
+
+	//Check for successful calloc
+	if (p == NULL) {
+		fprintf(stderr,"calloc failed\n"); //or perror("calloc");
+		exit(0);
+	}
+
+	for(i=0; i<n; i++) {
+		printf("p[%d] is %d\n",i,p[i]);
+	} //Will show that all 
+
+	tmp = p;//tmp now points to the same as p
+	//load array with 0,1,2,...(n-1)
+	for (i=0; i<n; i++) {
+		*tmp++ = i;
+		//Same as:
+		//tmp[i]=i;
+		//  p[i]=i;
+	}
+
+	for(i=0; i<n; i++) {
+		printf("p[%d] is %d\n",i,p[i]);
+	}
+	return 0;
+}
+```
+
+All the heap memory we allocate in the program is freed upon completion.
+However, we can free it before hand.
+
+For strings, do:
+`p = (char *) calloc (n, sizeof(char));`
+
+#### free
+`free(p);`
+CANNOT free stack memory, this is just all about heap memory
+
+
+##### getline
+in `<stdio.h>`
+similar to readline, but may read from a file or stdin,
+includes the newline character.
+
+## End of c3.txt

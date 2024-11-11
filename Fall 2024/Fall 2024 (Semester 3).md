@@ -6,7 +6,10 @@ Courses:
 - Communication in the Computer Industry: [[Fall 2024/CMN300 Communication in the Computer Industry/Course Intro|Course Intro]]
 
 TODO:
-- LinAlg lab and
+- CPS393 Lab,
+- Write new resume, send to father
+- Linear Algebra Practice Problems
+- 3Sum Leetcode Question!
 
 Midterms:
 - MTH108:

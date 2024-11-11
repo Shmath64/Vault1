@@ -62,6 +62,25 @@ int main(void) {
 ##### Multiple Indirection
 By using `**` we can define a pointer to a pointer!
 
+Below is a sample program that swaps two strings by modifying the pointers (FROM A FUNCTION).
+This is done by passing in the address-of (`&`) pointers (making double pointer) to strings to a function, that then dereferences these double pointers, and swaps they're values.
+```C
+void swap_string1( char **A, char **B) {
+ char *Z;
+ Z=*A;
+ *A=*B;
+ *B=Z;
+}
+
+int main (void) {
+ char *X="abc", *Y="def"; //why not char X[4]="abc", Y[4]="def" ?
+ printf("X: %s  ", X); printf("Y: %s\n", Y);
+ swap_string1(&X, &Y);
+ printf("X: %s  ", X); printf("Y: %s\n", Y);
+
+}
+```
+
 ### Command Line Processing
 We pass arguments to main with:
 - Argument Count
@@ -162,6 +181,7 @@ int main(void) {
 	//(kinda unnecessary, but keeps it C++ compatible)
 
 	//Note: calloc(n, sizeof(int)) = malloc(n * sizeof(int))
+	//To set value at where p is pointing, we need to: *p = 2, e.g.
 
 	//Check for successful calloc
 	if (p == NULL) {
@@ -206,3 +226,13 @@ similar to readline, but may read from a file or stdin,
 includes the newline character.
 
 ## End of c3.txt
+
+## Some important Stack & Heap stuff:
+- Global variables exist outside of the stack, and are removed at runtime
+- Local variables are placed on the stack and it is impossible to change their scope during runtime
+- If we want to create an array of a size that's determined at runtime, this CAN'T be done on the stack, and must be done on the heap.
+- Heap can grow as large as large as the RAM you have. 
+- The Heap is sometimes referred to as "Dynamic Memory"
+- No relation to the *Heap data structure*
+- Size of the stack is determined by the OS
+- 

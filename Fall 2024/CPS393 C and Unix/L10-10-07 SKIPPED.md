@@ -133,9 +133,8 @@ makefiles can have "clean" and "veryclean" rules which can clean up object code.
 
 makefiles can also use variables to enhance readability.
 #### Back to C stuff... 
-
 Remember that anything in single quotes is a "literal character".
-"Characters" are really integers in C. 
+"Characters" are really integers in C. <-Yaboi ASCII
 
 #### Loops
 `for ( ; ;) ;` is an infinite loop

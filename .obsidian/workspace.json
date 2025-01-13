@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "03b48d94e6329775",
+        "id": "2cf26a9280fefc4b",
         "type": "tabs",
         "children": [
           {
-            "id": "27752de171d65a88",
+            "id": "a6cad6325351dce1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semesters/Winter 2025/MTH380 Statistics/L01-01-10.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "L01-01-10"
-            }
-          },
-          {
-            "id": "c155c62c0216e3c9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDFs/Applied Statistics and Probability for Engineers, 7th Edition.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Applied Statistics and Probability for Engineers, 7th Edition"
+              "title": "New tab"
             }
           }
         ]
@@ -64,12 +48,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#CBH",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -89,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5,
-    "collapsed": true
+    "width": 368
   },
   "right": {
     "id": "99ad8b0a15bed364",
@@ -173,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,17 +170,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27752de171d65a88",
+  "active": "a6cad6325351dce1",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Semesters/Winter 2025/MTH380 Statistics/L01-01-10.md",
+    "COOP Stuff/Nestle - Launch your career.md",
+    "4913",
+    "PDFs/Discrete Mathematics with Applications.pdf",
+    "Semesters/Winter 2025/CPS420 Discrete Structurez/L01-01-13.md",
+    "Semesters/Winter 2025/CPS420 Discrete Structurez/Course Intro.md",
+    "Photos/CPS420-L01-1.png",
     "Semesters/Winter 2025/MTH380 Statistics/Course Intro.md",
+    "Semesters/Winter 2025/MTH380 Statistics/L01-01-10.md",
+    "Semesters/Winter 2025/CPS420 Discrete Structurez",
+    "Semesters/Winter 2025/Untitled.md",
+    "Untitled.md",
+    "COOP Stuff/CCP100/Interviewing, Navigating Co-op Offers, LinkedIn, and Networking.md",
     "PDFs/Applied Statistics and Probability for Engineers, 7th Edition.pdf",
+    "COOP Stuff/CCP100",
     "Semesters/Fall 2024/CMN300 Communication in the Computer Industry/Course Intro.md",
     "Semesters/Fall 2024/Fall 2024 (Semester 3).md",
     "Photos/Pasted image 20241126091909.png",
     "Semesters/Winter 2025/MTH380 Statistics",
-    "Semesters/Winter 2025/Untitled.md",
     "Semesters/Winter 2025",
     "Photos/Zero Trust Across Planes.png",
     "Photos/Policy Decision Point.png",
@@ -221,19 +214,10 @@
     "Semesters/Fall 2024/CPS393 C and Unix/Debug Room Review 2.md",
     "Semesters/Fall 2024/CPS393 C and Unix/BASH reminders and cheatsheet.md",
     "Semesters/Fall 2024/CPS393 C and Unix/L15-11-20.md",
-    "Semesters/Fall 2024/CPS393 C and Unix/L16-11-25 (C++).md",
-    "Semesters/Fall 2024/CPS393 C and Unix/L17-11-25.md",
-    "Semesters/Fall 2024/CPS305 Data Structures/L07-09-25.md",
-    "Semesters/Fall 2024/CPS571 Intro to Cybersecurity/L13-10-31.md",
     "Photos/CPS571-L19-01.png",
     "Photos/Pasted image 20241126093555.png",
     "PDFs/Lecture Notes/MTH108Lectures_1.pdf",
     "Photos/MTH108-L22-1.png",
-    "Fall 2024/MTH108 Linear Algebra/Untitled",
-    "Photos/CPS305-L15-1.png",
-    "PDFs/comptia-a-220-1102-exam-objectives-(7-0).pdf",
-    "PDFs/Certified-in-Cybersecurity-Exam-Outline-August-2022-English.pdf",
-    "Vault1",
     "Untitled.canvas"
   ]
 }

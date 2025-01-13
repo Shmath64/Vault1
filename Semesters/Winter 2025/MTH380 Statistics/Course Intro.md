@@ -25,4 +25,11 @@ On homework, one random question will be marked
 During quizzes, we can use standard calculators and statistical table
 Midterm on October 30 (in class)
 
+## Lecture Notes:
 [[L01-01-10]]
+- Random Experiments
+- Sample Spaces (Continuous vs Discrete)
+- Review of Set Operations and Venn Diagrams
+- "Counting Techniques" (How many outcomes within the sample space or event)
+	- Multiplication Counting rule
+- Permutations and Combinations

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2cf26a9280fefc4b",
+        "id": "70769af26b9fafe7",
         "type": "tabs",
         "children": [
           {
-            "id": "a6cad6325351dce1",
+            "id": "4eb4369a056792b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Semesters/Winter 2025/CPS406 Software Engineering/Course Intro.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Course Intro"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CBH",
+                "query": "cover letter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368
+    "width": 274.50152587890625
   },
   "right": {
     "id": "99ad8b0a15bed364",
@@ -156,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,17 +173,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6cad6325351dce1",
+  "active": "4eb4369a056792b5",
   "lastOpenFiles": [
+    "Semesters/Winter 2025/CPS406 Software Engineering/Course Intro.md",
+    "Semesters/Fall 2024/CPS305 Data Structures/L02-09-09.md",
+    "Semesters/Fall 2024/CPS305 Data Structures/Course Intro.md",
+    "Semesters/Winter 2025/CPS406 Software Engineering",
+    "PDFs/2) Stallings, Operating Systems, Internals and Design Principles, 9e, 2018.pdf",
+    "Semesters/Winter 2025/CPS590 Operating System/Course Intro.md",
+    "Semesters/Winter 2025/CPS590 Operating System/Textbook Notes 1.md",
+    "Semesters/Winter 2025/CPS590 Operating System",
+    "Semesters/Winter 2025/CPS506 Comparative Programming Languages/Course Intro.md",
+    "Semesters/Winter 2025/CPS506 Comparative Programming Languages/L01-01-14.md",
+    "Semesters/Winter 2025/CPS506 Comparative Programming Languages",
+    "Semesters/Winter 2025/CPS420 Discrete Structures/L01-01-13.md",
     "COOP Stuff/Nestle - Launch your career.md",
     "4913",
     "PDFs/Discrete Mathematics with Applications.pdf",
-    "Semesters/Winter 2025/CPS420 Discrete Structurez/L01-01-13.md",
-    "Semesters/Winter 2025/CPS420 Discrete Structurez/Course Intro.md",
+    "Semesters/Winter 2025/CPS420 Discrete Structures/Course Intro.md",
     "Photos/CPS420-L01-1.png",
     "Semesters/Winter 2025/MTH380 Statistics/Course Intro.md",
     "Semesters/Winter 2025/MTH380 Statistics/L01-01-10.md",
-    "Semesters/Winter 2025/CPS420 Discrete Structurez",
+    "Semesters/Winter 2025/CPS420 Discrete Structures",
     "Semesters/Winter 2025/Untitled.md",
     "Untitled.md",
     "COOP Stuff/CCP100/Interviewing, Navigating Co-op Offers, LinkedIn, and Networking.md",
@@ -190,33 +204,22 @@
     "Semesters/Fall 2024/Fall 2024 (Semester 3).md",
     "Photos/Pasted image 20241126091909.png",
     "Semesters/Winter 2025/MTH380 Statistics",
-    "Semesters/Winter 2025",
     "Photos/Zero Trust Across Planes.png",
     "Photos/Policy Decision Point.png",
     "Photos/Pasted image 20241030092351.png",
-    "Semesters",
     "Semesters/Fall 2024/MTH108 Linear Algebra/L18-11-08.md",
     "Semesters/Fall 2024/MTH108 Linear Algebra/L17-11-06.md",
     "Semesters/Fall 2024/CPS305 Data Structures/L15-11-11.md",
     "Semesters/Fall 2024/MTH108 Linear Algebra/Matrices.md",
     "Photos/Pasted image 20241213115115.png",
     "Photos/Pasted image 20241213114727.png",
-    "PDFs/Kuttler-LinearAlgebra-AFirstCourse.pdf",
     "Semesters/Fall 2024/MTH108 Linear Algebra/Lab chat with ALI.md",
     "Semesters/Fall 2024/MTH108 Linear Algebra/L23-11-27.md",
     "Semesters/Fall 2024/MTH108 Linear Algebra/L22-11-22.md",
     "Semesters/Fall 2024/MTH108 Linear Algebra/L24-11-29.md",
     "Semesters/Fall 2024/CPS393 C and Unix/L18-11-27.md",
-    "Semesters/Fall 2024/CPS393 C and Unix/L19-12-02 LAST LECTURE.md",
-    "Semesters/Fall 2024/CPS393 C and Unix/Debug Room Final Review.md",
-    "Semesters/Fall 2024/CPS393 C and Unix/L14-11-6 (Catchup).md",
-    "Semesters/Fall 2024/CPS393 C and Unix/L13-10-30 (Catchup).md",
-    "Semesters/Fall 2024/CPS393 C and Unix/Debug Room Review 2.md",
-    "Semesters/Fall 2024/CPS393 C and Unix/BASH reminders and cheatsheet.md",
-    "Semesters/Fall 2024/CPS393 C and Unix/L15-11-20.md",
     "Photos/CPS571-L19-01.png",
     "Photos/Pasted image 20241126093555.png",
-    "PDFs/Lecture Notes/MTH108Lectures_1.pdf",
     "Photos/MTH108-L22-1.png",
     "Untitled.canvas"
   ]

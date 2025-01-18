@@ -11,10 +11,14 @@
             "id": "e47e52acc889f361",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Brag.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Brag"
             }
           }
         ]
@@ -169,14 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba68b067eff6e9a7",
+  "active": "e47e52acc889f361",
   "lastOpenFiles": [
     "4913",
     "COOP Stuff/Winter 2025 Coop Symposium (Part 2).md",
     "Photos/Pasted image 20250118131402.png",
     "Photos/Pasted image 20250118103830.png",
     "Photos/Pasted image 20250117101555.png",
-    "'Brag Document'.md",
+    "Brag.md",
     "Photos/Pasted image 20250118103740.png",
     "PDFs/2) Stallings, Operating Systems, Internals and Design Principles, 9e, 2018.pdf",
     "Lecture Notes/Semesters/Winter 2025/MTH380 Statistics/L01-01-10.md",
